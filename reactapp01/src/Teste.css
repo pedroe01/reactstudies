@@ -1,0 +1,11 @@
+.Teste {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    background-color: rgba(0, 52, 92, 0.736)
+}
