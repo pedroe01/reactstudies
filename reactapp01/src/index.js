@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import Teste from './Teste';
 import Header from './Header';
+import RotaTest from './RotaTest';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
