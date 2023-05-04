@@ -14,6 +14,9 @@
 ### Dependências do backend:
 ### `pip install -r backend/requirements.txt`
 
+- Flask
+- Flask CORS
+
 [http://localhost:3000/flaskapi](http://localhost:3000/flaskapi)
 
 Servidor da API está em ./backend/flask_api.py
