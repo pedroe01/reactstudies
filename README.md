@@ -21,4 +21,9 @@
 
 Servidor da API está em ./backend/flask_api.py
 
+## AC4
 
+### GET [http://localhost:3000/listar](http://localhost:3000/listar)
+### POST [http://localhost:3000/incluir](http://localhost:3000/incluir)
+
+Servidor da API está em ./backend/backend_with_db.py
